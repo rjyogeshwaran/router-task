@@ -6,7 +6,7 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import All from "./components/All"
 import DataScince from "../src/components/DataScience"
 import CyberSecurity from "../src/components/CyberSecurity"
-import FullStack from './components/fullStack'
+import FullStack from './components/FullStack'
 import Career from "../src/components/Career"
 function App() {
 

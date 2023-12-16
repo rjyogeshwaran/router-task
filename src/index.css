@@ -1,0 +1,30 @@
+.nav{
+  display: block;
+  text-align: center;
+  background-color: white;
+  align-items: center;
+}
+
+.btns{
+  display: inline-block;
+  align-items: center;
+  padding: 10px;
+}
+.btn{
+  background-color: white;
+  color: black;
+  border: 0px;
+  margin: 5px;
+}
+.box{
+  height: 400px;
+  width: 400px;
+  display: inline-block;
+  border: 0px black solid;
+  margin: 20px;
+
+}
+.img{
+ height: 50%;
+ width: 100%;
+}
